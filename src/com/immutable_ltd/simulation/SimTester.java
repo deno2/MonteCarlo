@@ -1,3 +1,5 @@
+package com.immutable_ltd.simulation;
+
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.DoubleSummaryStatistics;
